@@ -9,13 +9,14 @@ h4{
 	color: red;
 }
 .image{
-     background:url('C:/Users/user/Desktop/Gallery--master/Desktop/Dealonwheels/21.jpg');
-     margin-top:-20px;
+     background:url('../Images/45.jpg');
+     margin-top:-40px;
+     margin-bottom: auto;
      background-size: 100% 100%;
      background-repeat: no-repeat;
-     height:69vh;
+     height:35vh;
      background-position: center;
-     background-size: cover;
+     background-size: contain;
      background-attachment: fixed;     
 }   
 .op{
